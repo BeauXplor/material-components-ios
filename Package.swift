@@ -9,9 +9,6 @@ let package = Package(
   ],
   products: [
     // This is what your app imports:
-    .library(name: "material", targets: ["material"]),
-
-    // Optional: expose the raw module too:
     .library(name: "MaterialComponents", targets: ["MaterialComponents"]),
   ],
   dependencies: [
@@ -21,30 +18,40 @@ let package = Package(
     .target(
       name: "MaterialComponents",
       path: ".",
+      exclude: [
+        "components/private",
+        "catalog",
+        "components/ActionSheet/src/MaterialActionSheet.bundle",
+        "components/ActivityIndicator/src/MaterialActivityIndicator.bundle",
+        "components/AppBar/src/MaterialAppBar.bundle",
+        "components/CollectionCells/src/MaterialCollectionCells.bundle",
+        "components/Collections/src/MaterialCollections.bundle",
+        "components/Dialogs/src/MaterialDialogs.bundle",
+        "components/PageControl/src/MaterialPageControl.bundle",
+        "components/ProgressView/src/MaterialProgressView.bundle",
+        "components/Snackbar/src/MaterialSnackbar.bundle",
+        "components/TextFields/src/MaterialTextFields.bundle"
+      ],
       sources: [
         "components/Buttons/src",
-        "components/TextFields/src",
-        "components/Themes/src",
-        "components/Typography/src",
-        "components/TextControls/src"
+        "components/schemes/shape/src"
+        // "components/TextFields/src",
+        // "components/Themes/src",
+        // "components/Typography/src",
+        // "components/TextControls/src"
       ],
       publicHeadersPath: "spm/include",
       cSettings: [
         // So the umbrella header can import "components/..." paths:
         .headerSearchPath("."),
         .headerSearchPath("components"),
+        .headerSearchPath("spm/include")
       ],
       linkerSettings: [
         .linkedFramework("UIKit"),
         .linkedFramework("QuartzCore"),
         .linkedFramework("CoreGraphics"),
       ]
-    ),
-
-    .target(
-      name: "material",
-      dependencies: ["MaterialComponents"],
-      path: "Sources/material"
-    ),
+    )
   ]
 )
