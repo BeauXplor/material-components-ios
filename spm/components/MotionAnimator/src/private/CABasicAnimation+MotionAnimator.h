@@ -19,9 +19,9 @@
 #import <QuartzCore/QuartzCore.h>
 
 #ifdef IS_BAZEL_BUILD
-#import <MotionInterchange/MotionInterchange.h>
+#import "MotionInterchange.h"
 #else
-#import <MotionInterchange/MotionInterchange.h>
+#import "MotionInterchange.h"
 #endif
 
 API_DEPRECATED_BEGIN("Use standard UIKit/CALayer animation APIs instead.",
