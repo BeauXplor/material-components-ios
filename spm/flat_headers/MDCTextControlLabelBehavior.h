@@ -1,1 +1,1 @@
-../components/TextControls/src/Enums/MDCTextControlLabelBehavior.h
+#import "components/TextControls/src/Enums/MDCTextControlLabelBehavior.h"

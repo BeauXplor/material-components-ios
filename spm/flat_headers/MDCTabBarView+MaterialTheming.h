@@ -1,1 +1,1 @@
-../components/Tabs/src/TabBarViewTheming/MDCTabBarView+MaterialTheming.h
+#import "components/Tabs/src/TabBarViewTheming/MDCTabBarView+MaterialTheming.h"

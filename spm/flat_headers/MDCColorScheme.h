@@ -1,1 +1,1 @@
-../components/Themes/src/MDCColorScheme.h
+#import "components/Themes/src/MDCColorScheme.h"

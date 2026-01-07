@@ -1,1 +1,1 @@
-../components/NavigationBar/src/ColorThemer/MDCNavigationBarColorThemer.h
+#import "components/NavigationBar/src/ColorThemer/MDCNavigationBarColorThemer.h"

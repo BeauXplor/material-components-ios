@@ -1,1 +1,1 @@
-../components/ActivityIndicator/src/MDCActivityIndicatorDelegate.h
+#import "components/ActivityIndicator/src/MDCActivityIndicatorDelegate.h"

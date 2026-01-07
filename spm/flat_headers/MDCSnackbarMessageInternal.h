@@ -1,1 +1,1 @@
-../components/Snackbar/src/private/MDCSnackbarMessageInternal.h
+#import "components/Snackbar/src/private/MDCSnackbarMessageInternal.h"

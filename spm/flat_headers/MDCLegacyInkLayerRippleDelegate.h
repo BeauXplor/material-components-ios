@@ -1,1 +1,1 @@
-../components/Ink/src/private/MDCLegacyInkLayerRippleDelegate.h
+#import "components/Ink/src/private/MDCLegacyInkLayerRippleDelegate.h"

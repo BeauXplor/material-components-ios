@@ -1,1 +1,1 @@
-../components/BottomSheet/src/MDCBottomSheetTransitionControllerDelegate.h
+#import "components/BottomSheet/src/MDCBottomSheetTransitionControllerDelegate.h"

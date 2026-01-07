@@ -1,1 +1,1 @@
-../components/private/TextControlsPrivate/src/TextFields/MDCBaseTextFieldLayout.h
+#import "components/private/TextControlsPrivate/src/TextFields/MDCBaseTextFieldLayout.h"

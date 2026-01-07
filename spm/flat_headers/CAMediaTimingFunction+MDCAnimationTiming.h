@@ -1,1 +1,1 @@
-../components/AnimationTiming/src/CAMediaTimingFunction+MDCAnimationTiming.h
+#import "components/AnimationTiming/src/CAMediaTimingFunction+MDCAnimationTiming.h"

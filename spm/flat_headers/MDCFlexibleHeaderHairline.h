@@ -1,1 +1,1 @@
-../components/FlexibleHeader/src/private/MDCFlexibleHeaderHairline.h
+#import "components/FlexibleHeader/src/private/MDCFlexibleHeaderHairline.h"

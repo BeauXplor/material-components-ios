@@ -14,10 +14,10 @@
 
 #import "MDCNavigationBar.h"
 
-#import <MDFInternationalization/MDFInternationalization.h>
+#import "MDFInternationalization.h"
 #import <objc/runtime.h>
 
-#import <MDFTextAccessibility/MDFTextAccessibility.h>
+#import "MDFTextAccessibility.h"
 #import "MaterialButtonBar.h"
 #import "MaterialMath.h"
 #import "MaterialTypography.h"

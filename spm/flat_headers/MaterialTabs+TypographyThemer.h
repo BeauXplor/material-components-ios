@@ -1,1 +1,1 @@
-../components/Tabs/src/TypographyThemer/MaterialTabs+TypographyThemer.h
+#import "components/Tabs/src/TypographyThemer/MaterialTabs+TypographyThemer.h"

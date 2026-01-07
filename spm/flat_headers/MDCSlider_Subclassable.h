@@ -1,1 +1,1 @@
-../components/Slider/src/private/MDCSlider_Subclassable.h
+#import "components/Slider/src/private/MDCSlider_Subclassable.h"

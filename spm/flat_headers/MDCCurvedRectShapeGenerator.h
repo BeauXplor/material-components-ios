@@ -1,1 +1,1 @@
-../components/ShapeLibrary/src/MDCCurvedRectShapeGenerator.h
+#import "components/ShapeLibrary/src/MDCCurvedRectShapeGenerator.h"

@@ -1,1 +1,1 @@
-../components/Dialogs/src/TypographyThemer/MDCAlertTypographyThemer.h
+#import "components/Dialogs/src/TypographyThemer/MDCAlertTypographyThemer.h"

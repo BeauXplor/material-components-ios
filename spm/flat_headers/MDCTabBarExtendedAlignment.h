@@ -1,1 +1,1 @@
-../components/Tabs/src/ExtendedAlignment/MDCTabBarExtendedAlignment.h
+#import "components/Tabs/src/ExtendedAlignment/MDCTabBarExtendedAlignment.h"

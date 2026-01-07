@@ -1,1 +1,1 @@
-../components/Tabs/src/TabBarView/MDCTabBarViewUnderlineIndicatorTemplate.h
+#import "components/Tabs/src/TabBarView/MDCTabBarViewUnderlineIndicatorTemplate.h"

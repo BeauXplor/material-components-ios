@@ -1,1 +1,1 @@
-../components/private/TextControlsPrivate/src/Shared/MDCTextControlSideViewSupport.h
+#import "components/private/TextControlsPrivate/src/Shared/MDCTextControlSideViewSupport.h"

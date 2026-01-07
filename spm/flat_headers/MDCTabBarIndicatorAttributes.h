@@ -1,1 +1,1 @@
-../components/Tabs/src/MDCTabBarIndicatorAttributes.h
+#import "components/Tabs/src/MDCTabBarIndicatorAttributes.h"

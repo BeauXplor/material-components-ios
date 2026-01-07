@@ -1,1 +1,1 @@
-../components/private/UIMetrics/src/MDCLayoutMetrics.h
+#import "components/private/UIMetrics/src/MDCLayoutMetrics.h"

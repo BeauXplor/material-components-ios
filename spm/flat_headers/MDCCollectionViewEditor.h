@@ -1,1 +1,1 @@
-../components/Collections/src/private/MDCCollectionViewEditor.h
+#import "components/Collections/src/private/MDCCollectionViewEditor.h"

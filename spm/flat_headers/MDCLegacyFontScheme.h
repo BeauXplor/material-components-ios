@@ -1,1 +1,1 @@
-../components/schemes/Typography/src/MDCLegacyFontScheme.h
+#import "components/schemes/Typography/src/MDCLegacyFontScheme.h"

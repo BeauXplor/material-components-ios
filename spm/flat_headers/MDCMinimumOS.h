@@ -1,1 +1,1 @@
-../components/MinimumOS/src/MDCMinimumOS.h
+#import "components/MinimumOS/src/MDCMinimumOS.h"

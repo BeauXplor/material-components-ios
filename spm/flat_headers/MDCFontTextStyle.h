@@ -1,1 +1,1 @@
-../components/Typography/src/MDCFontTextStyle.h
+#import "components/Typography/src/MDCFontTextStyle.h"

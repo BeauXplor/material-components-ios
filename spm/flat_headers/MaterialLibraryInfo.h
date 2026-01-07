@@ -1,1 +1,1 @@
-../components/LibraryInfo/src/MaterialLibraryInfo.h
+#import "components/LibraryInfo/src/MaterialLibraryInfo.h"

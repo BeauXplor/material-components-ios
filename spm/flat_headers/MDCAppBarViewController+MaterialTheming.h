@@ -1,1 +1,1 @@
-../components/AppBar/src/Theming/MDCAppBarViewController+MaterialTheming.h
+#import "components/AppBar/src/Theming/MDCAppBarViewController+MaterialTheming.h"

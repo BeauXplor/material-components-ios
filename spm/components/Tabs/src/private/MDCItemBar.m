@@ -14,7 +14,7 @@
 
 #import "MDCItemBar.h"
 
-#import <MDFInternationalization/MDFInternationalization.h>
+#import "MDFInternationalization.h"
 
 #import "MaterialAnimationTiming.h"
 #import "MDCTabBarDisplayDelegate.h"

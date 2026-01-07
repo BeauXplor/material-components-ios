@@ -1,1 +1,1 @@
-../components/BottomNavigation/src/MaterialBottomNavigation+BottomNavigationController.h
+#import "components/BottomNavigation/src/MaterialBottomNavigation+BottomNavigationController.h"

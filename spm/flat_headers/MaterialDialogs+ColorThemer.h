@@ -1,1 +1,1 @@
-../components/Dialogs/src/ColorThemer/MaterialDialogs+ColorThemer.h
+#import "components/Dialogs/src/ColorThemer/MaterialDialogs+ColorThemer.h"

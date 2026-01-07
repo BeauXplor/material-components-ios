@@ -1,1 +1,1 @@
-../components/Tabs/src/TabBarView/MDCTabBarItemCustomViewing.h
+#import "components/Tabs/src/TabBarView/MDCTabBarItemCustomViewing.h"

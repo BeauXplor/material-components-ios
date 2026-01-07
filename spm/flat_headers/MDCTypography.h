@@ -1,1 +1,1 @@
-../components/Typography/src/MDCTypography.h
+#import "components/Typography/src/MDCTypography.h"

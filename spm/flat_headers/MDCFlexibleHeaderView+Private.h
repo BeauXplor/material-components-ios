@@ -1,1 +1,1 @@
-../components/FlexibleHeader/src/private/MDCFlexibleHeaderView+Private.h
+#import "components/FlexibleHeader/src/private/MDCFlexibleHeaderView+Private.h"

@@ -1,1 +1,1 @@
-../components/ShapeLibrary/src/MDCTriangleEdgeTreatment.h
+#import "components/ShapeLibrary/src/MDCTriangleEdgeTreatment.h"

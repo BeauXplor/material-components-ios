@@ -1,1 +1,1 @@
-../components/ActivityIndicator/src/private/MDCActivityIndicatorMotionSpec.h
+#import "components/ActivityIndicator/src/private/MDCActivityIndicatorMotionSpec.h"

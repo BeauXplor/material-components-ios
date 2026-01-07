@@ -1,1 +1,1 @@
-../components/Internationalization/src/UIImage+MaterialRTL.h
+#import "components/Internationalization/src/UIImage+MaterialRTL.h"

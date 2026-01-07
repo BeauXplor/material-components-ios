@@ -1,1 +1,1 @@
-../components/BottomNavigation/src/private/MDCBottomNavigationLargeItemDialogView.h
+#import "components/BottomNavigation/src/private/MDCBottomNavigationLargeItemDialogView.h"

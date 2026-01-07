@@ -1,1 +1,1 @@
-../components/FlexibleHeader/src/MDCFlexibleHeaderViewAnimationDelegate.h
+#import "components/FlexibleHeader/src/MDCFlexibleHeaderViewAnimationDelegate.h"

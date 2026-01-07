@@ -1,1 +1,1 @@
-../components/private/Overlay/src/MDCOverlayObserver.h
+#import "components/private/Overlay/src/MDCOverlayObserver.h"

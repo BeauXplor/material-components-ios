@@ -24,7 +24,7 @@
 #import "MDCTypography.h"
 #import "UIFont+MaterialTypography.h"
 #import "MDCMath.h"
-#import <MDFInternationalization/MDFInternationalization.h>
+#import "MDFInternationalization.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

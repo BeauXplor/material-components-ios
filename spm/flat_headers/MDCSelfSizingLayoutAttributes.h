@@ -1,1 +1,1 @@
-../components/List/src/MDCSelfSizingLayoutAttributes.h
+#import "components/List/src/MDCSelfSizingLayoutAttributes.h"

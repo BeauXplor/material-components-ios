@@ -1,1 +1,1 @@
-../components/Dialogs/src/private/MDCAlertActionManager.h
+#import "components/Dialogs/src/private/MDCAlertActionManager.h"

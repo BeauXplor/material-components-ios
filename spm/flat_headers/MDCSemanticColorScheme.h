@@ -1,1 +1,1 @@
-../components/schemes/Color/src/MDCSemanticColorScheme.h
+#import "components/schemes/Color/src/MDCSemanticColorScheme.h"

@@ -1,1 +1,1 @@
-../components/BottomAppBar/src/private/MDCBottomAppBarAttributes.h
+#import "components/BottomAppBar/src/private/MDCBottomAppBarAttributes.h"

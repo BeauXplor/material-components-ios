@@ -1,1 +1,1 @@
-../components/schemes/Typography/src/BasicFontScheme/MDCBasicFontScheme.h
+#import "components/schemes/Typography/src/BasicFontScheme/MDCBasicFontScheme.h"

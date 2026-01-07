@@ -1,1 +1,1 @@
-../components/Tabs/src/MDCTabBarDisplayDelegate.h
+#import "components/Tabs/src/MDCTabBarDisplayDelegate.h"

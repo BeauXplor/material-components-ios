@@ -1,1 +1,1 @@
-../components/Collections/src/private/MaterialCollectionsStrings.h
+#import "components/Collections/src/private/MaterialCollectionsStrings.h"

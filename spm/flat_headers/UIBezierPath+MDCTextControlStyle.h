@@ -1,1 +1,1 @@
-../components/private/TextControlsPrivate/src/Shared/UIBezierPath+MDCTextControlStyle.h
+#import "components/private/TextControlsPrivate/src/Shared/UIBezierPath+MDCTextControlStyle.h"

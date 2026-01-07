@@ -1,1 +1,1 @@
-../components/Snackbar/src/MDCSnackbarManagerDelegate.h
+#import "components/Snackbar/src/MDCSnackbarManagerDelegate.h"

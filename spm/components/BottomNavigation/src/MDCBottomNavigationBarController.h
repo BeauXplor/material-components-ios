@@ -14,7 +14,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <MaterialComponents/MaterialBottomNavigation.h>
+#import "MaterialBottomNavigation.h"
 #import "MDCMinimumOS.h"  // IWYU pragma: keep
 
 NS_ASSUME_NONNULL_BEGIN

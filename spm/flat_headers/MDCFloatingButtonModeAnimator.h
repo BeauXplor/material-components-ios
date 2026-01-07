@@ -1,1 +1,1 @@
-../components/Buttons/src/private/MDCFloatingButtonModeAnimator.h
+#import "components/Buttons/src/private/MDCFloatingButtonModeAnimator.h"

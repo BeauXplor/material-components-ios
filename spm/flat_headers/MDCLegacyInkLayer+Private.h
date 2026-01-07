@@ -1,1 +1,1 @@
-../components/Ink/src/private/MDCLegacyInkLayer+Private.h
+#import "components/Ink/src/private/MDCLegacyInkLayer+Private.h"

@@ -1,1 +1,1 @@
-../components/Ripple/src/MDCRippleTouchControllerDelegate.h
+#import "components/Ripple/src/MDCRippleTouchControllerDelegate.h"

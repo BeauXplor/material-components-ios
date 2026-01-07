@@ -1,1 +1,1 @@
-../components/private/Snapshot/src/MaterialSnapshot.h
+#import "components/private/Snapshot/src/MaterialSnapshot.h"

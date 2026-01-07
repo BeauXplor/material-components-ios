@@ -1,1 +1,1 @@
-../components/Internationalization/src/NSLocale+MaterialRTL.h
+#import "components/Internationalization/src/NSLocale+MaterialRTL.h"

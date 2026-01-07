@@ -1,1 +1,1 @@
-../components/FlexibleHeader/src/private/MDCFlexibleHeaderMinMaxHeightDelegate.h
+#import "components/FlexibleHeader/src/private/MDCFlexibleHeaderMinMaxHeightDelegate.h"

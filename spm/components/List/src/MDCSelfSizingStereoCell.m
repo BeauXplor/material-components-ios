@@ -16,7 +16,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <MDFInternationalization/MDFInternationalization.h>
+#import "MDFInternationalization.h"
 
 #import "MaterialTypography.h"
 

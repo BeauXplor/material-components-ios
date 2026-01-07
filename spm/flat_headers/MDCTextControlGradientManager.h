@@ -1,1 +1,1 @@
-../components/private/TextControlsPrivate/src/Shared/MDCTextControlGradientManager.h
+#import "components/private/TextControlsPrivate/src/Shared/MDCTextControlGradientManager.h"

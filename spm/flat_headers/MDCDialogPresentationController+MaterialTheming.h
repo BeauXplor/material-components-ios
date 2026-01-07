@@ -1,1 +1,1 @@
-../components/Dialogs/src/Theming/MDCDialogPresentationController+MaterialTheming.h
+#import "components/Dialogs/src/Theming/MDCDialogPresentationController+MaterialTheming.h"

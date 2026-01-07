@@ -1,1 +1,1 @@
-../components/Collections/src/private/MDCCollectionGridBackgroundView.h
+#import "components/Collections/src/private/MDCCollectionGridBackgroundView.h"

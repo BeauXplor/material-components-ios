@@ -1,1 +1,1 @@
-../components/Ink/src/private/MDCInkLayerDelegate.h
+#import "components/Ink/src/private/MDCInkLayerDelegate.h"

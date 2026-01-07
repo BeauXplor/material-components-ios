@@ -1,1 +1,1 @@
-../components/Shapes/src/MDCShapedView.h
+#import "components/Shapes/src/MDCShapedView.h"

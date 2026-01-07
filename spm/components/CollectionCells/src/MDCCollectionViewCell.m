@@ -14,7 +14,7 @@
 
 #import "MDCCollectionViewCell.h"
 
-#import <MDFInternationalization/MDFInternationalization.h>
+#import "MDFInternationalization.h"
 
 #import "MaterialCollectionLayoutAttributes.h"
 #import "MaterialPalettes.h"

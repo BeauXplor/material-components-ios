@@ -1,1 +1,1 @@
-../components/List/src/Theming/MDCSelfSizingStereoCell+MaterialTheming.h
+#import "components/List/src/Theming/MDCSelfSizingStereoCell+MaterialTheming.h"

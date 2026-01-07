@@ -1,1 +1,1 @@
-../components/TextControls/src/BaseTextAreas/MDCBaseTextAreaDelegate.h
+#import "components/TextControls/src/BaseTextAreas/MDCBaseTextAreaDelegate.h"

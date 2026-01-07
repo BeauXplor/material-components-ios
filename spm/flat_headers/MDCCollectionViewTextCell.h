@@ -1,1 +1,1 @@
-../components/CollectionCells/src/MDCCollectionViewTextCell.h
+#import "components/CollectionCells/src/MDCCollectionViewTextCell.h"

@@ -1,1 +1,1 @@
-../components/FlexibleHeader/src/private/MDCStatusBarShifterDelegate.h
+#import "components/FlexibleHeader/src/private/MDCStatusBarShifterDelegate.h"

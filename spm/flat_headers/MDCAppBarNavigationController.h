@@ -1,1 +1,1 @@
-../components/AppBar/src/MDCAppBarNavigationController.h
+#import "components/AppBar/src/MDCAppBarNavigationController.h"

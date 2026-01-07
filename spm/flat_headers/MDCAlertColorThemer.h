@@ -1,1 +1,1 @@
-../components/Dialogs/src/ColorThemer/MDCAlertColorThemer.h
+#import "components/Dialogs/src/ColorThemer/MDCAlertColorThemer.h"

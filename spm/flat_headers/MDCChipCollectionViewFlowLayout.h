@@ -1,1 +1,1 @@
-../components/Chips/src/MDCChipCollectionViewFlowLayout.h
+#import "components/Chips/src/MDCChipCollectionViewFlowLayout.h"

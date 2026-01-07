@@ -1,1 +1,1 @@
-../components/ShapeLibrary/src/MDCCurvedCornerTreatment.h
+#import "components/ShapeLibrary/src/MDCCurvedCornerTreatment.h"

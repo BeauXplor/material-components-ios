@@ -1,1 +1,1 @@
-../components/Ink/src/MDCInkGestureRecognizer.h
+#import "components/Ink/src/MDCInkGestureRecognizer.h"

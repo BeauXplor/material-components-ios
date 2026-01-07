@@ -1,1 +1,1 @@
-../components/FeatureHighlight/src/private/MDCFeatureHighlightAnimationController.h
+#import "components/FeatureHighlight/src/private/MDCFeatureHighlightAnimationController.h"

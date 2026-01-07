@@ -1,1 +1,1 @@
-../components/Cards/src/Theming/MDCCardCollectionCell+MaterialTheming.h
+#import "components/Cards/src/Theming/MDCCardCollectionCell+MaterialTheming.h"

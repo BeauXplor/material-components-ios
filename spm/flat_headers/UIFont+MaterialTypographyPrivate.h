@@ -1,1 +1,1 @@
-../components/Typography/src/private/UIFont+MaterialTypographyPrivate.h
+#import "components/Typography/src/private/UIFont+MaterialTypographyPrivate.h"

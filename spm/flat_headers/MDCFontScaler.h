@@ -1,1 +1,1 @@
-../components/Typography/src/FontScaler/MDCFontScaler.h
+#import "components/Typography/src/FontScaler/MDCFontScaler.h"

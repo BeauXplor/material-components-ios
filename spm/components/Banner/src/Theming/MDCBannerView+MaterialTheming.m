@@ -14,10 +14,10 @@
 
 #import "MDCBannerView+MaterialTheming.h"
 
-#import <MaterialComponents/MaterialButtons+Theming.h>
-#import <MaterialComponents/MaterialButtons.h>
-#import <MaterialComponents/MaterialElevation.h>
-#import <MaterialComponents/MaterialTypography.h>
+#import "MaterialButtons+Theming.h"
+#import "MaterialButtons.h"
+#import "MaterialElevation.h"
+#import "MaterialTypography.h"
 
 // The opacity value applied to text view.
 static CGFloat const kTextViewOpacity = (CGFloat)0.87;

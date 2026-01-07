@@ -1,1 +1,1 @@
-../components/private/Icons/src/MDCIcons.h
+#import "components/private/Icons/src/MDCIcons.h"

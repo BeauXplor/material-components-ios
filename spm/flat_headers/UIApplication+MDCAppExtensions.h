@@ -1,1 +1,1 @@
-../components/private/Application/src/UIApplication+MDCAppExtensions.h
+#import "components/private/Application/src/UIApplication+MDCAppExtensions.h"

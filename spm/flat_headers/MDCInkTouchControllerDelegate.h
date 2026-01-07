@@ -1,1 +1,1 @@
-../components/Ink/src/MDCInkTouchControllerDelegate.h
+#import "components/Ink/src/MDCInkTouchControllerDelegate.h"

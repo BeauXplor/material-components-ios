@@ -1,1 +1,1 @@
-../components/private/Overlay/src/private/MDCOverlayObserverTransition.h
+#import "components/private/Overlay/src/private/MDCOverlayObserverTransition.h"

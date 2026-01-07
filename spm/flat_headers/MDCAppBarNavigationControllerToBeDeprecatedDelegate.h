@@ -1,1 +1,1 @@
-../components/AppBar/src/MDCAppBarNavigationControllerToBeDeprecatedDelegate.h
+#import "components/AppBar/src/MDCAppBarNavigationControllerToBeDeprecatedDelegate.h"

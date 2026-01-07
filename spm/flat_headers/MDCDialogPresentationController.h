@@ -1,1 +1,1 @@
-../components/Dialogs/src/MDCDialogPresentationController.h
+#import "components/Dialogs/src/MDCDialogPresentationController.h"

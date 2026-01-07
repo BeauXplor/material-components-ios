@@ -1,1 +1,1 @@
-../components/BottomNavigation/src/MDCBottomNavigationBarController.h
+#import "components/BottomNavigation/src/MDCBottomNavigationBarController.h"

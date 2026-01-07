@@ -1,1 +1,1 @@
-../components/TextAccessibility/src/private/NSArray+MDFUtils.h
+#import "components/TextAccessibility/src/private/NSArray+MDFUtils.h"

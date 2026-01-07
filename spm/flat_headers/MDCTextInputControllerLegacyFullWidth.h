@@ -1,1 +1,1 @@
-../components/TextFields/src/MDCTextInputControllerLegacyFullWidth.h
+#import "components/TextFields/src/MDCTextInputControllerLegacyFullWidth.h"

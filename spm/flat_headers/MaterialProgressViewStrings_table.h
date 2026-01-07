@@ -1,1 +1,1 @@
-../components/ProgressView/src/private/MaterialProgressViewStrings_table.h
+#import "components/ProgressView/src/private/MaterialProgressViewStrings_table.h"

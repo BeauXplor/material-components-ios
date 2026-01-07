@@ -1,1 +1,1 @@
-../components/FlexibleHeader/src/MDCFlexibleHeaderContainerViewController.h
+#import "components/FlexibleHeader/src/MDCFlexibleHeaderContainerViewController.h"

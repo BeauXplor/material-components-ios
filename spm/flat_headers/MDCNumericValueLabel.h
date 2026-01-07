@@ -1,1 +1,1 @@
-../components/private/ThumbTrack/src/MDCNumericValueLabel.h
+#import "components/private/ThumbTrack/src/MDCNumericValueLabel.h"

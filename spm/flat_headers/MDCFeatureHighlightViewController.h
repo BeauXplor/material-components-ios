@@ -1,1 +1,1 @@
-../components/FeatureHighlight/src/MDCFeatureHighlightViewController.h
+#import "components/FeatureHighlight/src/MDCFeatureHighlightViewController.h"

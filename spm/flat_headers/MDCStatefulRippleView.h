@@ -1,1 +1,1 @@
-../components/Ripple/src/MDCStatefulRippleView.h
+#import "components/Ripple/src/MDCStatefulRippleView.h"

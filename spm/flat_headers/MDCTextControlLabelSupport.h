@@ -1,1 +1,1 @@
-../components/private/TextControlsPrivate/src/Shared/MDCTextControlLabelSupport.h
+#import "components/private/TextControlsPrivate/src/Shared/MDCTextControlLabelSupport.h"

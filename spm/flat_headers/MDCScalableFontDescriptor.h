@@ -1,1 +1,1 @@
-../components/ScalableFontDescriptor/src/MDCScalableFontDescriptor.h
+#import "components/ScalableFontDescriptor/src/MDCScalableFontDescriptor.h"

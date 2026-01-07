@@ -1,1 +1,1 @@
-../components/FlexibleHeader/src/ShiftBehaviorEnabledWithStatusBar/MaterialFlexibleHeader+ShiftBehaviorEnabledWithStatusBar.h
+#import "components/FlexibleHeader/src/ShiftBehaviorEnabledWithStatusBar/MaterialFlexibleHeader+ShiftBehaviorEnabledWithStatusBar.h"

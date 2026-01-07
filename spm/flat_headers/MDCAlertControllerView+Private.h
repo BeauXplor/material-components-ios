@@ -1,1 +1,1 @@
-../components/Dialogs/src/private/MDCAlertControllerView+Private.h
+#import "components/Dialogs/src/private/MDCAlertControllerView+Private.h"

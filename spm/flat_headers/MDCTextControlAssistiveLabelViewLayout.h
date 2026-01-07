@@ -1,1 +1,1 @@
-../components/private/TextControlsPrivate/src/Shared/MDCTextControlAssistiveLabelViewLayout.h
+#import "components/private/TextControlsPrivate/src/Shared/MDCTextControlAssistiveLabelViewLayout.h"

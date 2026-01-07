@@ -1,1 +1,1 @@
-../components/ActivityIndicator/src/MDCActivityIndicator+Interface.h
+#import "components/ActivityIndicator/src/MDCActivityIndicator+Interface.h"

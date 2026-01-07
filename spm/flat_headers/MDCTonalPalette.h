@@ -1,1 +1,1 @@
-../components/Themes/src/MDCTonalPalette.h
+#import "components/Themes/src/MDCTonalPalette.h"

@@ -1,1 +1,1 @@
-../components/Badges/src/Appearance/MDCBadgeAppearance.h
+#import "components/Badges/src/Appearance/MDCBadgeAppearance.h"

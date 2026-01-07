@@ -1,1 +1,1 @@
-../components/PageControl/src/private/MaterialPageControlStrings.h
+#import "components/PageControl/src/private/MaterialPageControlStrings.h"

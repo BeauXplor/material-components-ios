@@ -1,1 +1,1 @@
-../components/NavigationBar/src/TypographyThemer/MaterialNavigationBar+TypographyThemer.h
+#import "components/NavigationBar/src/TypographyThemer/MaterialNavigationBar+TypographyThemer.h"

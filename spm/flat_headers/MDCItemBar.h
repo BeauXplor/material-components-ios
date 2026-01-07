@@ -1,1 +1,1 @@
-../components/Tabs/src/private/MDCItemBar.h
+#import "components/Tabs/src/private/MDCItemBar.h"

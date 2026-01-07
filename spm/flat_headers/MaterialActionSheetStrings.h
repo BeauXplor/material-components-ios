@@ -1,1 +1,1 @@
-../components/ActionSheet/src/private/MaterialActionSheetStrings.h
+#import "components/ActionSheet/src/private/MaterialActionSheetStrings.h"

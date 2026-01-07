@@ -1,1 +1,1 @@
-../components/AppBar/src/TypographyThemer/MDCAppBarTypographyThemer.h
+#import "components/AppBar/src/TypographyThemer/MDCAppBarTypographyThemer.h"

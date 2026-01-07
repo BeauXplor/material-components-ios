@@ -1,1 +1,1 @@
-../components/Typography/src/private/MDCTypographyUtilities.h
+#import "components/Typography/src/private/MDCTypographyUtilities.h"

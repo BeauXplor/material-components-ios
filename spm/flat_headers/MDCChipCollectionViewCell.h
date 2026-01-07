@@ -1,1 +1,1 @@
-../components/Chips/src/MDCChipCollectionViewCell.h
+#import "components/Chips/src/MDCChipCollectionViewCell.h"

@@ -1,1 +1,1 @@
-../components/Cards/src/MDCCardCollectionCell.h
+#import "components/Cards/src/MDCCardCollectionCell.h"

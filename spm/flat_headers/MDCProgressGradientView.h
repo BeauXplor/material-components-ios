@@ -1,1 +1,1 @@
-../components/ProgressView/src/private/MDCProgressGradientView.h
+#import "components/ProgressView/src/private/MDCProgressGradientView.h"

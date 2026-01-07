@@ -1,1 +1,1 @@
-../components/Ink/src/MDCInkViewDelegate.h
+#import "components/Ink/src/MDCInkViewDelegate.h"

@@ -1,1 +1,1 @@
-../components/Badges/src/MDCBadgeView.h
+#import "components/Badges/src/MDCBadgeView.h"

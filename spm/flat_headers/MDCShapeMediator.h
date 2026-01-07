@@ -1,1 +1,1 @@
-../components/Shapes/src/MDCShapeMediator.h
+#import "components/Shapes/src/MDCShapeMediator.h"

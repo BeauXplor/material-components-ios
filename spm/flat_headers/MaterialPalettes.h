@@ -1,1 +1,1 @@
-../components/Palettes/src/MaterialPalettes.h
+#import "components/Palettes/src/MaterialPalettes.h"

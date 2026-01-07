@@ -1,1 +1,1 @@
-../components/private/TextControlsPrivate/src/BaseStyle/MDCTextControlStyleBase.h
+#import "components/private/TextControlsPrivate/src/BaseStyle/MDCTextControlStyleBase.h"

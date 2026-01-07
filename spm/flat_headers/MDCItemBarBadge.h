@@ -1,1 +1,1 @@
-../components/Tabs/src/private/MDCItemBarBadge.h
+#import "components/Tabs/src/private/MDCItemBarBadge.h"

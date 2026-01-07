@@ -1,1 +1,1 @@
-../components/Dialogs/src/MDCAlertController+ButtonForAction.h
+#import "components/Dialogs/src/MDCAlertController+ButtonForAction.h"

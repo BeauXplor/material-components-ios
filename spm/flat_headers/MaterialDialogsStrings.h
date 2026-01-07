@@ -1,1 +1,1 @@
-../components/Dialogs/src/private/MaterialDialogsStrings.h
+#import "components/Dialogs/src/private/MaterialDialogsStrings.h"

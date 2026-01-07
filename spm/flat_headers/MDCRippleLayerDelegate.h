@@ -1,1 +1,1 @@
-../components/Ripple/src/private/MDCRippleLayerDelegate.h
+#import "components/Ripple/src/private/MDCRippleLayerDelegate.h"

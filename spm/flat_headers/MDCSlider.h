@@ -1,1 +1,1 @@
-../components/Slider/src/MDCSlider.h
+#import "components/Slider/src/MDCSlider.h"

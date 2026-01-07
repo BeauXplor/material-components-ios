@@ -1,1 +1,1 @@
-../components/CollectionCells/src/MaterialCollectionCells.h
+#import "components/CollectionCells/src/MaterialCollectionCells.h"

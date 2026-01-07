@@ -1,1 +1,1 @@
-../components/AppBar/src/MDCAppBarViewControllerAccessibilityPerformEscapeDelegate.h
+#import "components/AppBar/src/MDCAppBarViewControllerAccessibilityPerformEscapeDelegate.h"

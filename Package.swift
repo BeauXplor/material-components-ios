@@ -13,7 +13,7 @@ let package = Package(
       name: "MaterialComponents",
       path: "spm",
       sources: ["components"],
-      publicHeadersPath: "spm/include",
+      publicHeadersPath: "spm/flat_headers",
       cSettings: [
         .headerSearchPath("."),
         .headerSearchPath("components"),

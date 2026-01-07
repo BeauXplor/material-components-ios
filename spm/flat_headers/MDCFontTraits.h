@@ -1,1 +1,1 @@
-../components/Typography/src/private/MDCFontTraits.h
+#import "components/Typography/src/private/MDCFontTraits.h"

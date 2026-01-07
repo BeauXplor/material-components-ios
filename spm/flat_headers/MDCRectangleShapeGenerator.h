@@ -1,1 +1,1 @@
-../components/Shapes/src/MDCRectangleShapeGenerator.h
+#import "components/Shapes/src/MDCRectangleShapeGenerator.h"

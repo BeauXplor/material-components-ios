@@ -1,1 +1,1 @@
-../components/FeatureHighlight/src/MDCFeatureHighlightView.h
+#import "components/FeatureHighlight/src/MDCFeatureHighlightView.h"

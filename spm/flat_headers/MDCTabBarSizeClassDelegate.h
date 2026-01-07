@@ -1,1 +1,1 @@
-../components/Tabs/src/SizeClassDelegate/MDCTabBarSizeClassDelegate.h
+#import "components/Tabs/src/SizeClassDelegate/MDCTabBarSizeClassDelegate.h"

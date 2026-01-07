@@ -1,1 +1,1 @@
-../components/ActivityIndicator/src/MDCActivityIndicator+Subclassing.h
+#import "components/ActivityIndicator/src/MDCActivityIndicator+Subclassing.h"

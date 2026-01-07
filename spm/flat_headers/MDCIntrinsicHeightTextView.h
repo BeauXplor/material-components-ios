@@ -1,1 +1,1 @@
-../components/TextFields/src/MDCIntrinsicHeightTextView.h
+#import "components/TextFields/src/MDCIntrinsicHeightTextView.h"

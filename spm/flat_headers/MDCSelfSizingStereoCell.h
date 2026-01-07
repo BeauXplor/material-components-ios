@@ -1,1 +1,1 @@
-../components/List/src/MDCSelfSizingStereoCell.h
+#import "components/List/src/MDCSelfSizingStereoCell.h"

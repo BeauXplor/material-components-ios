@@ -1,1 +1,1 @@
-../components/NavigationDrawer/src/private/MDCBottomDrawerHeaderMask.h
+#import "components/NavigationDrawer/src/private/MDCBottomDrawerHeaderMask.h"

@@ -1,1 +1,1 @@
-../components/ButtonBar/src/MDCButtonBarDelegate.h
+#import "components/ButtonBar/src/MDCButtonBarDelegate.h"

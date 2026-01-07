@@ -26,7 +26,7 @@
 #import "MDCFlexibleHeaderShiftBehaviorEnabledWithStatusBar.h"
 #import "UIApplication+MDCAppExtensions.h"
 #import "MDCLayoutMetrics.h"
-#import <MDFTextAccessibility/MDFTextAccessibility.h>
+#import "MDFTextAccessibility.h"
 
 @interface UIView ()
 - (UIEdgeInsets)safeAreaInsets;  // For pre-iOS 11 SDK targets.

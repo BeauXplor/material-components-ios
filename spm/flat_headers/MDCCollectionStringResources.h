@@ -1,1 +1,1 @@
-../components/Collections/src/private/MDCCollectionStringResources.h
+#import "components/Collections/src/private/MDCCollectionStringResources.h"

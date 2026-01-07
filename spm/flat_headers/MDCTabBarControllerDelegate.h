@@ -1,1 +1,1 @@
-../components/Tabs/src/MDCTabBarControllerDelegate.h
+#import "components/Tabs/src/MDCTabBarControllerDelegate.h"

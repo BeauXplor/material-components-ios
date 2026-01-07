@@ -1,1 +1,1 @@
-../components/FeatureHighlight/src/ColorThemer/MaterialFeatureHighlight+ColorThemer.h
+#import "components/FeatureHighlight/src/ColorThemer/MaterialFeatureHighlight+ColorThemer.h"

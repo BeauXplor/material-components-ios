@@ -14,7 +14,7 @@
 
 #import "MDCBannerView.h"
 
-#import <MaterialComponents/MaterialContainerScheme.h>
+#import "MaterialContainerScheme.h"
 
 /**
 Applies the Material Theming styles to an MDCBannerView.

@@ -1,1 +1,1 @@
-../components/TextFields/src/MDCTextInputCharacterCounter.h
+#import "components/TextFields/src/MDCTextInputCharacterCounter.h"

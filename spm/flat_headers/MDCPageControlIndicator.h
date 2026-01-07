@@ -1,1 +1,1 @@
-../components/PageControl/src/private/MDCPageControlIndicator.h
+#import "components/PageControl/src/private/MDCPageControlIndicator.h"

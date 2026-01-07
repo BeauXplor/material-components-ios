@@ -1,1 +1,1 @@
-../components/ShapeLibrary/src/MDCCornerTreatment+CornerTypeInitalizer.h
+#import "components/ShapeLibrary/src/MDCCornerTreatment+CornerTypeInitalizer.h"

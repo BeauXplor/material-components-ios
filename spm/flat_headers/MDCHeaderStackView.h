@@ -1,1 +1,1 @@
-../components/HeaderStackView/src/MDCHeaderStackView.h
+#import "components/HeaderStackView/src/MDCHeaderStackView.h"

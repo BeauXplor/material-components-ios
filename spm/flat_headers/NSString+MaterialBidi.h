@@ -1,1 +1,1 @@
-../components/Internationalization/src/NSString+MaterialBidi.h
+#import "components/Internationalization/src/NSString+MaterialBidi.h"

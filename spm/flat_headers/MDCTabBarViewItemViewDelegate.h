@@ -1,1 +1,1 @@
-../components/Tabs/src/TabBarView/private/MDCTabBarViewItemViewDelegate.h
+#import "components/Tabs/src/TabBarView/private/MDCTabBarViewItemViewDelegate.h"

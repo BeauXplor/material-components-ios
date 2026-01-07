@@ -1,1 +1,1 @@
-../components/private/TextControlsPrivate/src/Shared/MDCTextControlHorizontalPositioningReference.h
+#import "components/private/TextControlsPrivate/src/Shared/MDCTextControlHorizontalPositioningReference.h"

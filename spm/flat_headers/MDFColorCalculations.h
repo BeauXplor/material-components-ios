@@ -1,1 +1,1 @@
-../components/TextAccessibility/src/private/MDFColorCalculations.h
+#import "components/TextAccessibility/src/private/MDFColorCalculations.h"

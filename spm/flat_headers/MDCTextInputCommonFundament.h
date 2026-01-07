@@ -1,1 +1,1 @@
-../components/TextFields/src/private/MDCTextInputCommonFundament.h
+#import "components/TextFields/src/private/MDCTextInputCommonFundament.h"

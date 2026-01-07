@@ -1,1 +1,1 @@
-../components/ActivityIndicator/src/private/MaterialActivityIndicatorStrings.h
+#import "components/ActivityIndicator/src/private/MaterialActivityIndicatorStrings.h"

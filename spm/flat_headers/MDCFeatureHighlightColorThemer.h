@@ -1,1 +1,1 @@
-../components/FeatureHighlight/src/ColorThemer/MDCFeatureHighlightColorThemer.h
+#import "components/FeatureHighlight/src/ColorThemer/MDCFeatureHighlightColorThemer.h"

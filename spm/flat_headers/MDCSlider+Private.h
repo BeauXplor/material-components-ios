@@ -1,1 +1,1 @@
-../components/Slider/src/private/MDCSlider+Private.h
+#import "components/Slider/src/private/MDCSlider+Private.h"

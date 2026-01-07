@@ -30,7 +30,7 @@
 #import "UIFont+MaterialScalable.h"
 #import "UIFont+MaterialTypography.h"
 #import "MDCMath.h"
-#import <MDFInternationalization/MDFInternationalization.h>  // IWYU pragma: keep
+#import "MDFInternationalization.h"  // IWYU pragma: keep
 
 static const MDCFontTextStyle kTitleTextStyle = MDCFontTextStyleBody2;
 

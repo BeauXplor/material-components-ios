@@ -1,1 +1,1 @@
-../components/Collections/src/private/MDCCollectionInfoBarView.h
+#import "components/Collections/src/private/MDCCollectionInfoBarView.h"

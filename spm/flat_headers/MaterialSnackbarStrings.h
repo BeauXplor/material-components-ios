@@ -1,1 +1,1 @@
-../components/Snackbar/src/private/MaterialSnackbarStrings.h
+#import "components/Snackbar/src/private/MaterialSnackbarStrings.h"

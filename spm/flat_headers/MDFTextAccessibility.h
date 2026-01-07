@@ -1,1 +1,1 @@
-../components/TextAccessibility/src/MDFTextAccessibility.h
+#import "components/TextAccessibility/src/MDFTextAccessibility.h"

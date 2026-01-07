@@ -1,1 +1,1 @@
-../components/Collections/src/private/MDCCollectionViewStyler.h
+#import "components/Collections/src/private/MDCCollectionViewStyler.h"

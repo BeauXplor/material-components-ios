@@ -1,1 +1,1 @@
-../components/ActionSheet/src/private/MDCActionSheetHeaderView.h
+#import "components/ActionSheet/src/private/MDCActionSheetHeaderView.h"

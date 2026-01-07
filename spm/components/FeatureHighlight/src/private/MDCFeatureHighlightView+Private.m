@@ -14,7 +14,7 @@
 
 #import "MDCFeatureHighlightView+Private.h"
 
-#import <MDFTextAccessibility/MDFTextAccessibility.h>
+#import "MDFTextAccessibility.h"
 #import "MDCFeatureHighlightDismissGestureRecognizer.h"
 #import "MDCFeatureHighlightLayer.h"
 

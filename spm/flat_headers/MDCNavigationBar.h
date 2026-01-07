@@ -1,1 +1,1 @@
-../components/NavigationBar/src/MDCNavigationBar.h
+#import "components/NavigationBar/src/MDCNavigationBar.h"

@@ -1,1 +1,1 @@
-../components/BottomSheet/src/private/MDCSheetContainerViewDelegate.h
+#import "components/BottomSheet/src/private/MDCSheetContainerViewDelegate.h"

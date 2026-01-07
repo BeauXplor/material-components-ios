@@ -1,1 +1,1 @@
-../components/private/Icons/icons/ic_help_outline/src/MaterialIcons+ic_help_outline.h
+#import "components/private/Icons/icons/ic_help_outline/src/MaterialIcons+ic_help_outline.h"

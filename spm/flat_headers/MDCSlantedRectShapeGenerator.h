@@ -1,1 +1,1 @@
-../components/ShapeLibrary/src/MDCSlantedRectShapeGenerator.h
+#import "components/ShapeLibrary/src/MDCSlantedRectShapeGenerator.h"

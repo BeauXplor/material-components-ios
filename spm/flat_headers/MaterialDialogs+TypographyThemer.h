@@ -1,1 +1,1 @@
-../components/Dialogs/src/TypographyThemer/MaterialDialogs+TypographyThemer.h
+#import "components/Dialogs/src/TypographyThemer/MaterialDialogs+TypographyThemer.h"

@@ -1,1 +1,1 @@
-../components/CollectionLayoutAttributes/src/MDCCollectionViewLayoutAttributes.h
+#import "components/CollectionLayoutAttributes/src/MDCCollectionViewLayoutAttributes.h"

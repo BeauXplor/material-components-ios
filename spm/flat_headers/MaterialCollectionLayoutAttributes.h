@@ -1,1 +1,1 @@
-../components/CollectionLayoutAttributes/src/MaterialCollectionLayoutAttributes.h
+#import "components/CollectionLayoutAttributes/src/MaterialCollectionLayoutAttributes.h"

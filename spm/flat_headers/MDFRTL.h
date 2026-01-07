@@ -1,1 +1,1 @@
-../components/Internationalization/src/MDFRTL.h
+#import "components/Internationalization/src/MDFRTL.h"

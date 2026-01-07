@@ -1,1 +1,1 @@
-../components/Dialogs/src/UIViewController+MaterialDialogs.h
+#import "components/Dialogs/src/UIViewController+MaterialDialogs.h"

@@ -1,1 +1,1 @@
-../components/Banner/src/MDCBannerView.h
+#import "components/Banner/src/MDCBannerView.h"

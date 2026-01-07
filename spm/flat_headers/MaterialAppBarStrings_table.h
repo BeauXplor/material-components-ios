@@ -1,1 +1,1 @@
-../components/AppBar/src/private/MaterialAppBarStrings_table.h
+#import "components/AppBar/src/private/MaterialAppBarStrings_table.h"

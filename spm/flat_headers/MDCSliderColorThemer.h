@@ -1,1 +1,1 @@
-../components/Slider/src/ColorThemer/MDCSliderColorThemer.h
+#import "components/Slider/src/ColorThemer/MDCSliderColorThemer.h"

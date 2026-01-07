@@ -1,1 +1,1 @@
-../components/private/ThumbTrack/src/private/MDCDiscreteDotView.h
+#import "components/private/ThumbTrack/src/private/MDCDiscreteDotView.h"

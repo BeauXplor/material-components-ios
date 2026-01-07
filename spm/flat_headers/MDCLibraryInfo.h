@@ -1,1 +1,1 @@
-../components/LibraryInfo/src/MDCLibraryInfo.h
+#import "components/LibraryInfo/src/MDCLibraryInfo.h"

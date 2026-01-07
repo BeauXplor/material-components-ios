@@ -1,1 +1,1 @@
-../components/Tabs/src/TypographyThemer/MDCTabBarTypographyThemer.h
+#import "components/Tabs/src/TypographyThemer/MDCTabBarTypographyThemer.h"

@@ -1,1 +1,1 @@
-../components/Tabs/src/private/MDCItemBarAlignment.h
+#import "components/Tabs/src/private/MDCItemBarAlignment.h"

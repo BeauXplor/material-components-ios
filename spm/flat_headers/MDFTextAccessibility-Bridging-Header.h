@@ -1,1 +1,1 @@
-../components/TextAccessibility/src/MDFTextAccessibility-Bridging-Header.h
+#import "components/TextAccessibility/src/MDFTextAccessibility-Bridging-Header.h"

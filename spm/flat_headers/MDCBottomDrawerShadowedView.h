@@ -1,1 +1,1 @@
-../components/NavigationDrawer/src/private/MDCBottomDrawerShadowedView.h
+#import "components/NavigationDrawer/src/private/MDCBottomDrawerShadowedView.h"

@@ -1,1 +1,1 @@
-../components/private/Icons/src/MaterialIcons.h
+#import "components/private/Icons/src/MaterialIcons.h"

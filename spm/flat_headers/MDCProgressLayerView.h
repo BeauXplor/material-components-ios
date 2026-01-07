@@ -1,1 +1,1 @@
-../components/ProgressView/src/private/MDCProgressLayerView.h
+#import "components/ProgressView/src/private/MDCProgressLayerView.h"

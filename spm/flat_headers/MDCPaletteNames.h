@@ -1,1 +1,1 @@
-../components/Palettes/src/private/MDCPaletteNames.h
+#import "components/Palettes/src/private/MDCPaletteNames.h"

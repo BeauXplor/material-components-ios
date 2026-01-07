@@ -1,1 +1,1 @@
-../components/BottomAppBar/src/MDCBottomAppBarView.h
+#import "components/BottomAppBar/src/MDCBottomAppBarView.h"

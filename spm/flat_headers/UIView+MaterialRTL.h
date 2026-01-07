@@ -1,1 +1,1 @@
-../components/Internationalization/src/UIView+MaterialRTL.h
+#import "components/Internationalization/src/UIView+MaterialRTL.h"

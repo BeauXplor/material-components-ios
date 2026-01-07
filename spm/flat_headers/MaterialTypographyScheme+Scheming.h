@@ -1,1 +1,1 @@
-../components/schemes/Typography/src/Scheming/MaterialTypographyScheme+Scheming.h
+#import "components/schemes/Typography/src/Scheming/MaterialTypographyScheme+Scheming.h"

@@ -1,1 +1,1 @@
-../components/Tabs/src/MDCTabBarTextTransform.h
+#import "components/Tabs/src/MDCTabBarTextTransform.h"

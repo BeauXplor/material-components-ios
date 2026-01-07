@@ -1,1 +1,1 @@
-../components/private/ThumbTrack/src/MDCThumbView.h
+#import "components/private/ThumbTrack/src/MDCThumbView.h"

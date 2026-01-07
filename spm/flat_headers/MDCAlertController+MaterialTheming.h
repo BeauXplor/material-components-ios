@@ -1,1 +1,1 @@
-../components/Dialogs/src/Theming/MDCAlertController+MaterialTheming.h
+#import "components/Dialogs/src/Theming/MDCAlertController+MaterialTheming.h"

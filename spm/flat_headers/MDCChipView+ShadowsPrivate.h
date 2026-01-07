@@ -1,1 +1,1 @@
-../components/Chips/src/PerformantShadowMigration/MDCChipView+ShadowsPrivate.h
+#import "components/Chips/src/PerformantShadowMigration/MDCChipView+ShadowsPrivate.h"

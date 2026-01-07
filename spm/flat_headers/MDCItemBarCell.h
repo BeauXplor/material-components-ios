@@ -1,1 +1,1 @@
-../components/Tabs/src/private/MDCItemBarCell.h
+#import "components/Tabs/src/private/MDCItemBarCell.h"

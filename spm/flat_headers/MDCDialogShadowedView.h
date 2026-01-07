@@ -1,1 +1,1 @@
-../components/Dialogs/src/private/MDCDialogShadowedView.h
+#import "components/Dialogs/src/private/MDCDialogShadowedView.h"

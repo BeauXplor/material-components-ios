@@ -1,1 +1,1 @@
-../components/Internationalization/src/MDFInternationalization.h
+#import "components/Internationalization/src/MDFInternationalization.h"

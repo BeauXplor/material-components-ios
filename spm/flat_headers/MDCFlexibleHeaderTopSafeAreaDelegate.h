@@ -1,1 +1,1 @@
-../components/FlexibleHeader/src/private/MDCFlexibleHeaderTopSafeAreaDelegate.h
+#import "components/FlexibleHeader/src/private/MDCFlexibleHeaderTopSafeAreaDelegate.h"

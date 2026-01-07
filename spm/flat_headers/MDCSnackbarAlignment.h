@@ -1,1 +1,1 @@
-../components/Snackbar/src/MDCSnackbarAlignment.h
+#import "components/Snackbar/src/MDCSnackbarAlignment.h"

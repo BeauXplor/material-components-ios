@@ -1,1 +1,1 @@
-../components/FlexibleHeader/src/private/MDCFlexibleHeaderShifter.h
+#import "components/FlexibleHeader/src/private/MDCFlexibleHeaderShifter.h"

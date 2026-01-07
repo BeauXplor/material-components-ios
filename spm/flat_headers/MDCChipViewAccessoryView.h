@@ -1,1 +1,1 @@
-../components/Chips/src/MDCChipViewAccessoryView.h
+#import "components/Chips/src/MDCChipViewAccessoryView.h"

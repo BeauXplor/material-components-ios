@@ -1,1 +1,1 @@
-../components/TextFields/src/MDCTextInputControllerLegacyDefault.h
+#import "components/TextFields/src/MDCTextInputControllerLegacyDefault.h"

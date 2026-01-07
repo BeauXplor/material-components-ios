@@ -1,1 +1,1 @@
-../components/ButtonBar/src/private/MDCAppBarButtonBarBuilder.h
+#import "components/ButtonBar/src/private/MDCAppBarButtonBarBuilder.h"

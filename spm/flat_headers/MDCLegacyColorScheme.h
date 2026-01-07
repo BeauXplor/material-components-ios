@@ -1,1 +1,1 @@
-../components/schemes/Color/src/MDCLegacyColorScheme.h
+#import "components/schemes/Color/src/MDCLegacyColorScheme.h"

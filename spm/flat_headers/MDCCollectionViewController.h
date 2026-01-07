@@ -1,1 +1,1 @@
-../components/Collections/src/MDCCollectionViewController.h
+#import "components/Collections/src/MDCCollectionViewController.h"

@@ -1,1 +1,1 @@
-../components/Shapes/src/MDCShapeGenerating.h
+#import "components/Shapes/src/MDCShapeGenerating.h"

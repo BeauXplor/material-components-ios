@@ -1,1 +1,1 @@
-../components/private/TextControlsPrivate/src/OutlinedStyle/MDCTextControlStyleOutlined.h
+#import "components/private/TextControlsPrivate/src/OutlinedStyle/MDCTextControlStyleOutlined.h"

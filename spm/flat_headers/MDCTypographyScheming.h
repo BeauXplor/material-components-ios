@@ -1,1 +1,1 @@
-../components/schemes/Typography/src/Scheming/MDCTypographyScheming.h
+#import "components/schemes/Typography/src/Scheming/MDCTypographyScheming.h"

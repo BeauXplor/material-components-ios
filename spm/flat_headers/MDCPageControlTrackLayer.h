@@ -1,1 +1,1 @@
-../components/PageControl/src/private/MDCPageControlTrackLayer.h
+#import "components/PageControl/src/private/MDCPageControlTrackLayer.h"
