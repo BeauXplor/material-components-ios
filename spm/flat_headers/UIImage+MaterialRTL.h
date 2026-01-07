@@ -1,0 +1,1 @@
+../components/Internationalization/src/UIImage+MaterialRTL.h

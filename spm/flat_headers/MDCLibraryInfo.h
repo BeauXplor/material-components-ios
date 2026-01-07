@@ -1,0 +1,1 @@
+../components/LibraryInfo/src/MDCLibraryInfo.h

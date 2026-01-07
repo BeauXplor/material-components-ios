@@ -1,0 +1,1 @@
+../components/private/Snapshot/TestHost/src/TestHostMinimalDelegate.h

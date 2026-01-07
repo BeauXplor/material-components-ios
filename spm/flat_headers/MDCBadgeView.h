@@ -1,0 +1,1 @@
+../components/Badges/src/MDCBadgeView.h

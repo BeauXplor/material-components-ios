@@ -1,0 +1,1 @@
+../components/Tabs/src/TypographyThemer/MaterialTabs+TypographyThemer.h

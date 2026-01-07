@@ -1,0 +1,1 @@
+../components/ActivityIndicator/src/private/MaterialActivityIndicatorStrings_table.h

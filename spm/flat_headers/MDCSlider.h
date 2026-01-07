@@ -1,0 +1,1 @@
+../components/Slider/src/MDCSlider.h

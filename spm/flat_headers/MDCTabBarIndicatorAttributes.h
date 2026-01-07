@@ -1,0 +1,1 @@
+../components/Tabs/src/MDCTabBarIndicatorAttributes.h

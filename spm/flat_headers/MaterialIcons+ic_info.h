@@ -1,0 +1,1 @@
+../components/private/Icons/icons/ic_info/src/MaterialIcons+ic_info.h

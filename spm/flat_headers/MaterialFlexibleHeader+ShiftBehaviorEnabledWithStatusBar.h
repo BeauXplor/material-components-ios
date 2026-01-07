@@ -1,0 +1,1 @@
+../components/FlexibleHeader/src/ShiftBehaviorEnabledWithStatusBar/MaterialFlexibleHeader+ShiftBehaviorEnabledWithStatusBar.h

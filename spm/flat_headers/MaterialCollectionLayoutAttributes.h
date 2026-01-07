@@ -1,0 +1,1 @@
+../components/CollectionLayoutAttributes/src/MaterialCollectionLayoutAttributes.h
